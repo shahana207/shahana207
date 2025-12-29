@@ -1,5 +1,62 @@
-# 💫 About Me:
-## Hi there 👋<br><br><!--<br>**shahana207/shahana207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>--><br><br>- 🔭 I’m currently working on building full-stack MERN applications, including e-commerce and B2B projects.  <br>- 🌱 I’m currently learning advanced Next.js, GraphQL, and improving my DSA skills.  <br>- 👯 I’m looking to collaborate on interesting web development projects and open-source contributions.  <br>- 🤔 I’m looking for help with optimizing large-scale MERN applications and best practices for clean code.  <br>- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, and full-stack development in general.  <br>- 📫 How to reach me: [Email](mailto:shahanadev28@example.com) | [LinkedIn](https://www.linkedin.com/in/shahana-sherin-9863bb201/)  <br>- 😄 Pronouns: She/Her  <br>- ⚡ Fun fact: I love turning complex problems into simple, working code and experimenting with UI/UX designs.  <br>
+# 💫 About Me:## Hi there 👋 I'm Shahana  
+
+✨ A self-driven **MERN Stack Developer** passionate about building scalable and user-centric web applications.  
+With a strong background in **UI/UX design**, I love turning ideas into real, meaningful digital experiences 🚀  
+
+---
+
+### 🔭 I’m currently working on  
+- **Full-Stack MERN Applications**  
+  - E-commerce platforms  
+  - B2B dashboards and admin panels  
+  - Authentication & role-based access systems  
+
+---
+
+### 🌱 I’m currently learning  
+- **Advanced JavaScript** & React best practices  
+- **Next.js** for scalable front-end architecture  
+- **Backend system design** & REST API optimization  
+- **MongoDB schema design** and performance tuning  
+
+---
+
+### 👯 I’m looking to collaborate on  
+- MERN stack projects  
+- Real-world business and B2B applications  
+- Open-source and collaborative web projects  
+
+---
+
+### 🤔 I’m looking for help with  
+- Building production-ready applications  
+- Scalable architecture and clean code practices  
+
+---
+
+### 💬 Ask me about  
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- Authentication (JWT, role-based access)  
+- REST APIs & backend logic  
+- UI/UX planning and implementation  
+
+---
+
+### 📫 How to reach me  
+- GitHub: [@shahana207](https://github.com/shahana207)  
+- LinkedIn: [Shahana Sherin](https://www.linkedin.com/in/shahanadev28/)  
+- Email: shahanadev28@example.com  
+
+---
+
+### 😄 Pronouns  
+- She / Her  
+
+---
+
+### ⚡ Fun fact  
+I enjoy transforming complex problems into clean, simple, and user-friendly web solutions 💡  
+
 
 
 ## 🌐 Socials:
