@@ -93,6 +93,12 @@ I enjoy transforming complex problems into clean, simple, and user-friendly web 
 
 ---
 
+
+## 📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sideque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sideque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhila397&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" /> </div>
+
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shahana207&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
