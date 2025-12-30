@@ -3,6 +3,10 @@
 ✨ A self-driven **MERN Stack Developer** passionate about building scalable and user-centric web applications.  
 With a strong background in **UI/UX design**, I love turning ideas into real, meaningful digital experiences 🚀  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Girl coding animation" />
+</p>
+
 ---
 
 ### 🔭 I’m currently working on  
