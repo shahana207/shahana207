@@ -103,9 +103,7 @@ I enjoy transforming complex problems into clean, simple, and user-friendly web 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahana207&theme=merko&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=shahana207&theme=merko)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahana207&theme=merko&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shahana207&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=shahana207&theme=merko&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahana207&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
