@@ -4,8 +4,9 @@
 With a strong background in **UI/UX design**, I love turning ideas into real, meaningful digital experiences 🚀  
 
 <p align="center">
-  <img src="https://media.tenor.com/0pYGCQZqkK4AAAAC/coding-girl.gif" width="350" alt="Girl coding" />
+  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="350" alt="Girl coding GIF" />
 </p>
+
 
 
 ---
