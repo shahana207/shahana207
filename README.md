@@ -93,6 +93,10 @@ I enjoy transforming complex problems into clean, simple, and user-friendly web 
 
 ---
 
+## 📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhila397&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" /> </div>
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shahana207&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
