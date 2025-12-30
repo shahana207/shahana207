@@ -92,9 +92,8 @@ I enjoy transforming complex problems into clean, simple, and user-friendly web 
 ![](https://github-readme-stats.vercel.app/api?username=shahana207&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=shahana207&theme=merko&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahana207&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahana207&bg_color=ffffff&color=000000&line=6C63FF&point=000000&area=true" />
 
-## 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhila397&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" /> </div>
 
 ---
 
